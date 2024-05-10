@@ -1,0 +1,37 @@
+body{
+    background-color: blue;
+    text-align: center;
+}
+#Box1{
+    text-align: center;
+
+}
+h1{
+    background-color: brown;
+    text-align: center;
+   margin-left: 30%;
+   margin-right: 30%;
+   padding: 8px;
+   color: beige;
+   font-size: xxx-large;
+}
+.div1{
+color: black;
+background-color: dodgerblue;
+font-size: xx-large;
+padding: 15px;
+margin-bottom: 20px;
+}
+#div{
+    background-color: black;
+    border: 10px solid red;
+    margin-left: 10%;
+    margin-right: 10%;
+    padding: 30px;   
+}
+.div2{
+    color: black;
+    background-color: dodgerblue;
+    font-size: xx-large;
+    padding: 15px;
+}
